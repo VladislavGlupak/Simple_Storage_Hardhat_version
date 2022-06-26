@@ -1,5 +1,5 @@
 {
-  "name": "Simple_Storage_Hardhat",
+  "name": "ls",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -17,5 +17,6 @@
     "prettier-plugin-solidity": "^1.0.0-beta.19",
     "solidity-coverage": "^0.7.21",
     "yarn": "^1.22.19"
-  }
+  },
+  "repository": "https://github.com/VladislavGlupak/Simple_Storage_Hardhat_version.git"
 }
