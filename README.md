@@ -1,5 +1,6 @@
 # Basic Sample Hardhat Project
 ```
+git clone https://github.com/VladislavGlupak/Simple_Storage_Hardhat_version.git
 yarn init
 yarn hardhat
 yarn clean
